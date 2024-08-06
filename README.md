@@ -2,17 +2,15 @@
 
 A arquitetura utilizado nos meus projetos React e React native geralmente seguem essa estrutura:
 
-`
-|-- App
-|   |-- Handles
-|   |-- Services
-|   |-- Config
-|-- Models
-|-- Routes
-|-- Utils
-|-- Components
-|-- Views
-`
+|-- App<br>
+|   |-- Handles<br>
+|   |-- Services<br>
+|   |-- Config<br>
+|-- Models<br>
+|-- Routes<br>
+|-- Utils<br>
+|-- Components<br>
+|-- Views <br>
 
 Para entender melhor o porquê dessa disposição de pastas, devemos entender como a arquitetura funciona. Abaixo, temos a imagem que mostra a estrutura da arquitetura:
 
