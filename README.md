@@ -14,6 +14,6 @@ A arquitetura utilizado nos meus projetos React e React native geralmente seguem
 |-- Views
 `
 
-Para ender melhor o porquê dessa disposiçõa de pastas devemos entender como a arquitetura funciona, abaixo tem a imamge que mostra a estrutura da arquitura:
+Para entender melhor o porquê dessa disposição de pastas, devemos entender como a arquitetura funciona. Abaixo, temos a imagem que mostra a estrutura da arquitetura:
 
-https://raw.githubusercontent.com/miqueiasrodrigues/front-ent-react/main/arquitetura.drawio.png
+![Estrutura da Arquitetura](https://raw.githubusercontent.com/miqueiasrodrigues/front-ent-react/main/arquitetura.drawio.png)
