@@ -211,7 +211,7 @@ agora podemos chamar o nosso manipulador no componente do botão
 
 ```typescript
 
-<ComponenteBotao nome="Login" acao={manipuladorDeSessao("POST", null, dadosDoLogin)}/>
+<ComponenteBotao nome="Login" acao={() => await manipuladorDeSessao("POST", null, dadosDoLogin)}/>
 
 ```
 
